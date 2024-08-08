@@ -37,14 +37,22 @@ jobs:
           curl -o Geo_AS_CN.list $FILE_URL_9
           curl -o CN_AS_Cidr.rsc $FILE_URL_10
 
+      - name: Pull latest changes
+        run: git pull
+
+      - name: Check for changes
+        id: git_status
+        run: |
+          git add .
+          git diff-index --quiet HEAD || echo "changes"
+
       - name: Commit and push changes
+        if: steps.git_status.outputs.changes == 'changes'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           export TZ='Asia/Shanghai'
           COMMIT_MSG="$(date '+%Y-%m-%d %H:%M:%S')"
-          git pull
-          git add .
           git commit -m "$COMMIT_MSG"
           git push
         env:
