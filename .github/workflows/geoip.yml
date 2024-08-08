@@ -3,6 +3,7 @@ name: Geodb workflow
 on:
   schedule:
     - cron: '0 4 * * *'
+  workflow_dispatch:
 
 jobs:
   download_and_push:
