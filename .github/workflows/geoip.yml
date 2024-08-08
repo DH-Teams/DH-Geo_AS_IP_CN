@@ -1,0 +1,52 @@
+name: Geodb workflow
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+
+jobs:
+  download_and_push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Download Files
+        env:
+          FILE_URL_1: ${{ secrets.Geo_AS_IP_CN_url }}
+          FILE_URL_2: ${{ secrets.Geo_AS_IP_CN_6_url }}
+          FILE_URL_3: ${{ secrets.Geo_AS_IP_CN_All_url }}
+          FILE_URL_4: ${{ secrets.Country_url }}
+          FILE_URL_5: ${{ secrets.Country_All_url }}
+          FILE_URL_6: ${{ secrets.Geo_AS_IP_CN_All_Clash_url }}
+          FILE_URL_7: ${{ secrets.Geo_AS_IP_CN_All_Surge_url }}
+          FILE_URL_8: ${{ secrets.Geo_AS_IP_CN_V4_Surge_url }}
+          FILE_URL_9: ${{ secrets.Geo_AS_CN_url }}
+          FILE_URL_10: ${{ secrets.CN_AS_Cidr_url }}
+        run: |
+          curl -o Geo_AS_IP_CN.txt $FILE_URL_1
+          curl -o Geo_AS_IP_CN_6.txt $FILE_URL_2
+          curl -o Geo_AS_IP_CN_All.txt $FILE_URL_3
+          curl -o Country.mmdb $FILE_URL_4
+          curl -o Country_All.mmdb $FILE_URL_5
+          curl -o Geo_AS_IP_CN_All_Clash.yaml $FILE_URL_6
+          curl -o Geo_AS_IP_CN_All_Surge.list $FILE_URL_7
+          curl -o Geo_AS_IP_CN_V4_Surge.list $FILE_URL_8
+          curl -o Geo_AS_CN.list $FILE_URL_9
+          curl -o CN_AS_Cidr.rsc $FILE_URL_10
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git commit -m 'Download files and update repository'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
