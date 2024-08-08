@@ -1,4 +1,4 @@
-name: Geodb workflow
+name: DH-Geo_AS_IP_CN workflow
 
 on:
   schedule:
@@ -12,11 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '14'
 
       - name: Download Files
         env:
@@ -46,8 +41,10 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          export TZ='Asia/Shanghai'
+          COMMIT_MSG="$(date '+%Y-%m-%d %H:%M:%S')"
           git add .
-          git commit -m 'Download files and update repository'
+          git commit -m "$COMMIT_MSG"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
