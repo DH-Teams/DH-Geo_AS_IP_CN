@@ -12,7 +12,7 @@
 
 ⏺CNcidr-mmdb（IPv4+IPv6）：请点击 [这里](https://raw.githubusercontent.com/DH-Teams/DH-Geo_AS_IP_CN/main/Country_All.mmdb) 获取。
 
-⏺Ros_CN_cidr（IPv4 Only）：请点击 [这里](https://raw.githubusercontent.com/DH-Teams/DH-Geo_AS_IP_CN/main/Country_All.mmdb) 获取。
+⏺Ros_CN_cidr（IPv4 Only）：请点击 [这里](https://raw.githubusercontent.com/DH-Teams/DH-Geo_AS_IP_CN/main/CN_AS_Cidr.rsc) 获取。
 
 🐱Clash-yaml（IPv4+IPv6）：请点击 [这里](https://raw.githubusercontent.com/DH-Teams/DH-Geo_AS_IP_CN/main/Geo_AS_IP_CN_All_Clash.yaml) 获取。
 
