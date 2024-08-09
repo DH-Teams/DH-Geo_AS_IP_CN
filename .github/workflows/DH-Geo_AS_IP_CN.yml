@@ -47,7 +47,7 @@ jobs:
           git diff-index --quiet HEAD || echo "changes"
 
       - name: Commit and push changes
-        if: steps.git_status.outputs.changes == 'changes'
+        #if: steps.git_status.outputs.changes == 'changes'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
