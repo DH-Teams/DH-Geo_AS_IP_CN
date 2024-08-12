@@ -3425,8 +3425,6 @@ add address=203.175.128.0/19 list=CN
 add address=203.176.92.0/22 list=CN
 add address=203.176.168.0/24 list=CN
 add address=203.176.170.0/24 list=CN
-add address=203.184.131.0/24 list=CN
-add address=203.184.132.0/24 list=CN
 add address=203.187.160.0/19 list=CN
 add address=203.189.0.0/23 list=CN
 add address=203.189.6.0/23 list=CN
