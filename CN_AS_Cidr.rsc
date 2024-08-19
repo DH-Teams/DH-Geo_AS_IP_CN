@@ -864,8 +864,7 @@ add address=103.31.48.0/22 list=CN
 add address=103.31.56.0/22 list=CN
 add address=103.31.168.0/22 list=CN
 add address=103.31.200.0/22 list=CN
-add address=103.31.236.0/23 list=CN
-add address=103.31.238.0/24 list=CN
+add address=103.31.236.0/22 list=CN
 add address=103.35.104.0/22 list=CN
 add address=103.36.28.0/22 list=CN
 add address=103.36.36.0/22 list=CN
