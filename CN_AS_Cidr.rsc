@@ -3230,6 +3230,7 @@ add address=202.149.224.0/19 list=CN
 add address=202.150.16.0/20 list=CN
 add address=202.152.190.0/23 list=CN
 add address=202.158.160.0/19 list=CN
+add address=202.160.143.0/24 list=CN
 add address=202.164.25.0/24 list=CN
 add address=202.165.208.0/20 list=CN
 add address=202.168.160.0/19 list=CN
