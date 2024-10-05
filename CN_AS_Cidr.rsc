@@ -378,6 +378,7 @@ add address=45.113.20.0/22 list=CN
 add address=45.113.24.0/22 list=CN
 add address=45.113.40.0/22 list=CN
 add address=45.113.200.0/22 list=CN
+add address=45.114.189.0/24 list=CN
 add address=45.115.44.0/22 list=CN
 add address=45.115.144.0/22 list=CN
 add address=45.115.200.0/22 list=CN
