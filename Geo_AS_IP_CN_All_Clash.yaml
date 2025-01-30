@@ -1473,7 +1473,7 @@ payload:
   - IP-CIDR,103.183.66.0/23,no-resolve
   - IP-CIDR,103.183.122.0/23,no-resolve
   - IP-CIDR,103.183.124.0/23,no-resolve
-  - IP-CIDR,103.183.218.0/23,no-resolve
+  - IP-CIDR,103.183.218.0/24,no-resolve
   - IP-CIDR,103.184.46.0/23,no-resolve
   - IP-CIDR,103.186.4.0/23,no-resolve
   - IP-CIDR,103.186.108.0/23,no-resolve
@@ -5031,6 +5031,7 @@ payload:
   - IP-CIDR6,2404:2280:1f0::/45,no-resolve
   - IP-CIDR6,2404:2280:1f8::/46,no-resolve
   - IP-CIDR6,2404:3700::/48,no-resolve
+  - IP-CIDR6,2404:4dc0::/32,no-resolve
   - IP-CIDR6,2404:6380::/48,no-resolve
   - IP-CIDR6,2404:6380:1000::/48,no-resolve
   - IP-CIDR6,2404:6380:8001::/48,no-resolve
@@ -5852,6 +5853,7 @@ payload:
   - IP-CIDR6,2602:fd92:cc0::/44,no-resolve
   - IP-CIDR6,2602:fed2:731d::/48,no-resolve
   - IP-CIDR6,2602:feda:182::/47,no-resolve
+  - IP-CIDR6,2602:feda:190::/44,no-resolve
   - IP-CIDR6,2602:feda:1bf::/48,no-resolve
   - IP-CIDR6,2602:feda:1d1::/48,no-resolve
   - IP-CIDR6,2602:feda:1df::/48,no-resolve
@@ -6043,6 +6045,7 @@ payload:
   - IP-CIDR6,2a14:67c1:704::/48,no-resolve
   - IP-CIDR6,2a14:67c1:800::/48,no-resolve
   - IP-CIDR6,2a14:67c1:802::/48,no-resolve
+  - IP-CIDR6,2a14:67c1:804::/48,no-resolve
   - IP-CIDR6,2a14:67c1:80b::/48,no-resolve
   - IP-CIDR6,2a14:67c1:1000::/37,no-resolve
   - IP-CIDR6,2a14:67c1:a010::/44,no-resolve
