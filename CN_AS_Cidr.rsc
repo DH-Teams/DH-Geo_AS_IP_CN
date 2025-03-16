@@ -3308,11 +3308,7 @@ add address=163.181.196.0/22 list=CN
 add address=163.181.201.0/24 list=CN
 add address=163.181.202.0/23 list=CN
 add address=163.181.204.0/22 list=CN
-add address=163.181.208.0/24 list=CN
-add address=163.181.210.0/23 list=CN
-add address=163.181.213.0/24 list=CN
-add address=163.181.214.0/23 list=CN
-add address=163.181.216.0/21 list=CN
+add address=163.181.208.0/20 list=CN
 add address=163.181.224.0/23 list=CN
 add address=163.181.228.0/22 list=CN
 add address=163.181.232.0/24 list=CN
