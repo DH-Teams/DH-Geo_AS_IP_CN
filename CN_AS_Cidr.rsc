@@ -1217,6 +1217,7 @@ add address=103.85.168.0/21 list=CN
 add address=103.85.176.0/22 list=CN
 add address=103.85.224.0/22 list=CN
 add address=103.87.132.0/22 list=CN
+add address=103.87.180.0/22 list=CN
 add address=103.88.32.0/21 list=CN
 add address=103.88.64.0/22 list=CN
 add address=103.88.96.0/22 list=CN
@@ -3073,6 +3074,7 @@ add address=154.19.100.0/22 list=CN
 add address=154.19.112.0/20 list=CN
 add address=154.23.188.0/22 list=CN
 add address=154.38.104.0/22 list=CN
+add address=154.48.227.0/24 list=CN
 add address=154.72.42.0/24 list=CN
 add address=154.72.44.0/24 list=CN
 add address=154.72.47.0/24 list=CN
@@ -3129,6 +3131,7 @@ add address=156.107.170.0/24 list=CN
 add address=156.107.178.0/23 list=CN
 add address=156.107.180.0/23 list=CN
 add address=156.224.128.0/24 list=CN
+add address=156.224.139.0/24 list=CN
 add address=156.224.168.0/24 list=CN
 add address=156.224.176.0/24 list=CN
 add address=156.224.184.0/24 list=CN
@@ -3201,6 +3204,7 @@ add address=163.53.60.0/22 list=CN
 add address=163.53.88.0/21 list=CN
 add address=163.53.128.0/22 list=CN
 add address=163.53.168.0/22 list=CN
+add address=163.61.202.0/23 list=CN
 add address=163.125.0.0/16 list=CN
 add address=163.142.0.0/16 list=CN
 add address=163.177.0.0/16 list=CN
@@ -3215,7 +3219,7 @@ add address=163.181.26.0/24 list=CN
 add address=163.181.28.0/24 list=CN
 add address=163.181.32.0/21 list=CN
 add address=163.181.40.0/24 list=CN
-add address=163.181.42.0/23 list=CN
+add address=163.181.42.0/24 list=CN
 add address=163.181.44.0/23 list=CN
 add address=163.181.46.0/24 list=CN
 add address=163.181.49.0/24 list=CN
@@ -4401,7 +4405,9 @@ add address=220.112.50.0/23 list=CN
 add address=220.112.52.0/23 list=CN
 add address=220.112.54.0/24 list=CN
 add address=220.112.59.0/24 list=CN
-add address=220.112.192.0/20 list=CN
+add address=220.112.194.0/24 list=CN
+add address=220.112.196.0/24 list=CN
+add address=220.112.200.0/21 list=CN
 add address=220.113.0.0/19 list=CN
 add address=220.113.32.0/20 list=CN
 add address=220.113.96.0/21 list=CN
