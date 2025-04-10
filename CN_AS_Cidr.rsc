@@ -2835,6 +2835,7 @@ add address=124.128.0.0/13 list=CN
 add address=124.151.0.0/17 list=CN
 add address=124.151.128.0/18 list=CN
 add address=124.151.193.0/24 list=CN
+add address=124.151.194.0/24 list=CN
 add address=124.151.224.0/19 list=CN
 add address=124.152.0.0/16 list=CN
 add address=124.160.0.0/13 list=CN
@@ -2927,6 +2928,7 @@ add address=129.227.168.0/21 list=CN
 add address=129.227.192.0/23 list=CN
 add address=129.227.195.0/24 list=CN
 add address=130.36.146.0/23 list=CN
+add address=131.221.82.0/23 list=CN
 add address=131.228.96.0/23 list=CN
 add address=132.232.0.0/16 list=CN
 add address=132.237.134.0/24 list=CN
@@ -3201,8 +3203,7 @@ add address=162.248.72.0/21 list=CN
 add address=163.0.0.0/16 list=CN
 add address=163.5.166.0/24 list=CN
 add address=163.47.4.0/22 list=CN
-add address=163.53.44.0/24 list=CN
-add address=163.53.46.0/23 list=CN
+add address=163.53.44.0/22 list=CN
 add address=163.53.60.0/22 list=CN
 add address=163.53.88.0/21 list=CN
 add address=163.53.128.0/22 list=CN
@@ -3499,6 +3500,7 @@ add address=193.9.46.0/24 list=CN
 add address=193.112.0.0/16 list=CN
 add address=193.119.10.0/24 list=CN
 add address=193.119.13.0/24 list=CN
+add address=193.119.15.0/24 list=CN
 add address=193.119.20.0/23 list=CN
 add address=193.119.30.0/24 list=CN
 add address=194.15.39.0/24 list=CN
