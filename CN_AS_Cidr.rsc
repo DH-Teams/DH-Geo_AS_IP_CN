@@ -434,7 +434,6 @@ add address=45.80.188.0/24 list=CN
 add address=45.80.190.0/24 list=CN
 add address=45.81.34.0/24 list=CN
 add address=45.85.76.0/22 list=CN
-add address=45.91.83.0/24 list=CN
 add address=45.92.158.0/23 list=CN
 add address=45.113.20.0/22 list=CN
 add address=45.113.24.0/22 list=CN
@@ -491,8 +490,6 @@ add address=45.150.236.0/23 list=CN
 add address=45.151.47.0/24 list=CN
 add address=45.153.128.0/22 list=CN
 add address=45.157.88.0/24 list=CN
-add address=45.160.62.0/24 list=CN
-add address=45.187.100.0/22 list=CN
 add address=45.195.6.0/24 list=CN
 add address=45.199.167.0/24 list=CN
 add address=45.202.209.0/24 list=CN
@@ -3286,7 +3283,6 @@ add address=164.155.133.0/24 list=CN
 add address=166.111.0.0/16 list=CN
 add address=167.139.0.0/16 list=CN
 add address=167.220.244.0/22 list=CN
-add address=168.0.68.0/22 list=CN
 add address=168.159.144.0/21 list=CN
 add address=168.159.152.0/22 list=CN
 add address=168.159.156.0/23 list=CN
