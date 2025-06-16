@@ -802,7 +802,7 @@ add address=68.79.0.0/18 list=CN
 add address=69.163.104.0/24 list=CN
 add address=69.163.106.0/24 list=CN
 add address=69.163.123.0/24 list=CN
-add address=69.165.78.0/23 list=CN
+add address=69.165.79.0/24 list=CN
 add address=69.172.70.0/24 list=CN
 add address=69.230.192.0/18 list=CN
 add address=69.231.128.0/18 list=CN
@@ -1651,6 +1651,7 @@ add address=103.238.204.0/22 list=CN
 add address=103.238.224.0/22 list=CN
 add address=103.239.68.0/22 list=CN
 add address=103.239.152.0/22 list=CN
+add address=103.239.184.0/22 list=CN
 add address=103.239.192.0/22 list=CN
 add address=103.239.204.0/22 list=CN
 add address=103.239.224.0/22 list=CN
