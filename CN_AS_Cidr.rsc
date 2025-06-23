@@ -503,6 +503,7 @@ add address=45.147.48.0/23 list=CN
 add address=45.150.236.0/23 list=CN
 add address=45.151.47.0/24 list=CN
 add address=45.153.128.0/22 list=CN
+add address=45.157.88.0/24 list=CN
 add address=45.195.6.0/24 list=CN
 add address=45.199.167.0/24 list=CN
 add address=45.202.209.0/24 list=CN
@@ -966,7 +967,7 @@ add address=102.210.144.0/24 list=CN
 add address=102.210.146.0/23 list=CN
 add address=102.211.48.0/23 list=CN
 add address=102.211.51.0/24 list=CN
-add address=102.218.212.0/24 list=CN
+add address=102.218.212.0/23 list=CN
 add address=102.218.214.0/24 list=CN
 add address=102.219.144.0/22 list=CN
 add address=102.219.156.0/22 list=CN
