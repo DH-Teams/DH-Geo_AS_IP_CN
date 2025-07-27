@@ -4255,9 +4255,8 @@ add address=222.126.132.0/23 list=CN
 add address=222.126.140.0/22 list=CN
 add address=222.126.144.0/20 list=CN
 add address=222.126.160.0/20 list=CN
-add address=222.126.178.0/23 list=CN
-add address=222.126.180.0/22 list=CN
-add address=222.126.184.0/23 list=CN
+add address=222.126.176.0/21 list=CN
+add address=222.126.184.0/22 list=CN
 add address=222.126.192.0/22 list=CN
 add address=222.126.196.0/23 list=CN
 add address=222.126.200.0/22 list=CN
