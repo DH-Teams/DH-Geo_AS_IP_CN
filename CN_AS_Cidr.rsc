@@ -1221,6 +1221,7 @@ add address=103.131.152.0/22 list=CN
 add address=103.131.168.0/22 list=CN
 add address=103.131.179.0/24 list=CN
 add address=103.132.22.0/23 list=CN
+add address=103.132.80.0/23 list=CN
 add address=103.132.212.0/23 list=CN
 add address=103.133.128.0/23 list=CN
 add address=103.135.160.0/22 list=CN
