@@ -408,6 +408,8 @@ add address=45.116.140.0/22 list=CN
 add address=45.116.152.0/22 list=CN
 add address=45.116.208.0/22 list=CN
 add address=45.117.8.0/22 list=CN
+add address=45.117.68.0/24 list=CN
+add address=45.117.70.0/23 list=CN
 add address=45.119.60.0/22 list=CN
 add address=45.119.68.0/22 list=CN
 add address=45.119.105.0/24 list=CN
@@ -1038,6 +1040,7 @@ add address=103.56.104.0/22 list=CN
 add address=103.56.152.0/22 list=CN
 add address=103.56.184.0/22 list=CN
 add address=103.57.12.0/22 list=CN
+add address=103.57.136.0/23 list=CN
 add address=103.57.139.0/24 list=CN
 add address=103.59.112.0/22 list=CN
 add address=103.59.124.0/22 list=CN
@@ -1195,7 +1198,8 @@ add address=103.115.92.0/22 list=CN
 add address=103.115.120.0/22 list=CN
 add address=103.115.248.0/22 list=CN
 add address=103.116.76.0/22 list=CN
-add address=103.116.92.0/22 list=CN
+add address=103.116.93.0/24 list=CN
+add address=103.116.94.0/23 list=CN
 add address=103.116.120.0/23 list=CN
 add address=103.116.123.0/24 list=CN
 add address=103.116.138.0/23 list=CN
@@ -1228,7 +1232,6 @@ add address=103.131.152.0/22 list=CN
 add address=103.131.168.0/22 list=CN
 add address=103.131.179.0/24 list=CN
 add address=103.132.22.0/23 list=CN
-add address=103.132.80.0/23 list=CN
 add address=103.132.212.0/23 list=CN
 add address=103.133.128.0/23 list=CN
 add address=103.134.136.0/22 list=CN
@@ -1471,7 +1474,7 @@ add address=103.238.188.0/22 list=CN
 add address=103.238.204.0/22 list=CN
 add address=103.239.68.0/22 list=CN
 add address=103.239.152.0/22 list=CN
-add address=103.239.184.0/24 list=CN
+add address=103.239.184.0/23 list=CN
 add address=103.239.187.0/24 list=CN
 add address=103.239.192.0/22 list=CN
 add address=103.239.204.0/22 list=CN
@@ -2960,7 +2963,7 @@ add address=155.102.193.0/24 list=CN
 add address=155.102.194.0/23 list=CN
 add address=155.102.196.0/23 list=CN
 add address=155.102.198.0/24 list=CN
-add address=155.102.201.0/24 list=CN
+add address=155.102.200.0/23 list=CN
 add address=155.102.204.0/23 list=CN
 add address=155.102.208.0/23 list=CN
 add address=155.102.216.0/22 list=CN
