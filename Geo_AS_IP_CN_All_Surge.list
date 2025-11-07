@@ -2993,6 +2993,7 @@ IP-CIDR,154.72.42.0/24,no-resolve
 IP-CIDR,154.72.44.0/24,no-resolve
 IP-CIDR,154.72.47.0/24,no-resolve
 IP-CIDR,154.89.32.0/20,no-resolve
+IP-CIDR,154.89.53.0/24,no-resolve
 IP-CIDR,154.91.158.0/23,no-resolve
 IP-CIDR,154.208.140.0/22,no-resolve
 IP-CIDR,154.208.144.0/20,no-resolve
@@ -4271,6 +4272,7 @@ IP-CIDR,220.154.0.0/20,no-resolve
 IP-CIDR,220.154.16.0/22,no-resolve
 IP-CIDR,220.154.128.0/22,no-resolve
 IP-CIDR,220.154.132.0/23,no-resolve
+IP-CIDR,220.154.134.0/24,no-resolve
 IP-CIDR,220.154.140.0/24,no-resolve
 IP-CIDR,220.154.144.0/24,no-resolve
 IP-CIDR,220.160.0.0/12,no-resolve
@@ -4837,6 +4839,7 @@ IP-CIDR6,2404:2280:282::/48,no-resolve
 IP-CIDR6,2404:2280:284::/47,no-resolve
 IP-CIDR6,2404:2280:288::/47,no-resolve
 IP-CIDR6,2404:2280:28a::/48,no-resolve
+IP-CIDR6,2404:2280:28c::/48,no-resolve
 IP-CIDR6,2404:2280:296::/47,no-resolve
 IP-CIDR6,2404:2280:298::/48,no-resolve
 IP-CIDR6,2404:3700::/48,no-resolve
@@ -5645,6 +5648,7 @@ IP-CIDR6,2602:f93b:400::/38,no-resolve
 IP-CIDR6,2602:f9ba:a8::/48,no-resolve
 IP-CIDR6,2602:f9ba:10c::/48,no-resolve
 IP-CIDR6,2602:fab0:11::/48,no-resolve
+IP-CIDR6,2602:fed2:7051::/48,no-resolve
 IP-CIDR6,2602:feda:1bf::/48,no-resolve
 IP-CIDR6,2602:feda:1d1::/48,no-resolve
 IP-CIDR6,2602:feda:1df::/48,no-resolve
@@ -5764,6 +5768,7 @@ IP-CIDR6,2a0f:1cc5:20::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:f00::/46,no-resolve
 IP-CIDR6,2a0f:1cc5:f05::/48,no-resolve
 IP-CIDR6,2a0f:5707:ac00::/47,no-resolve
+IP-CIDR6,2a0f:6284:300::/40,no-resolve
 IP-CIDR6,2a0f:6284:4b00::/40,no-resolve
 IP-CIDR6,2a0f:6284:4c30::/48,no-resolve
 IP-CIDR6,2a0f:6284:4c40::/43,no-resolve
@@ -5832,7 +5837,8 @@ IP-CIDR6,2a14:67c1:702::/47,no-resolve
 IP-CIDR6,2a14:67c1:704::/48,no-resolve
 IP-CIDR6,2a14:67c1:800::/48,no-resolve
 IP-CIDR6,2a14:67c1:802::/47,no-resolve
-IP-CIDR6,2a14:67c1:804::/46,no-resolve
+IP-CIDR6,2a14:67c1:804::/48,no-resolve
+IP-CIDR6,2a14:67c1:806::/47,no-resolve
 IP-CIDR6,2a14:67c1:a010::/44,no-resolve
 IP-CIDR6,2a14:67c1:a020::/48,no-resolve
 IP-CIDR6,2a14:67c1:a023::/48,no-resolve
