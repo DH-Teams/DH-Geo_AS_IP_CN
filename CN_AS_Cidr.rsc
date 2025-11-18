@@ -3155,7 +3155,7 @@ add address=163.181.192.0/23 list=CN
 add address=163.181.196.0/22 list=CN
 add address=163.181.200.0/21 list=CN
 add address=163.181.209.0/24 list=CN
-add address=163.181.210.0/23 list=CN
+add address=163.181.210.0/24 list=CN
 add address=163.181.212.0/22 list=CN
 add address=163.181.216.0/21 list=CN
 add address=163.181.224.0/23 list=CN
