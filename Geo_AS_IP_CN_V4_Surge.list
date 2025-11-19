@@ -2980,10 +2980,7 @@ IP-CIDR,155.102.24.0/24,no-resolve
 IP-CIDR,155.102.26.0/23,no-resolve
 IP-CIDR,155.102.28.0/22,no-resolve
 IP-CIDR,155.102.32.0/19,no-resolve
-IP-CIDR,155.102.70.0/24,no-resolve
 IP-CIDR,155.102.72.0/24,no-resolve
-IP-CIDR,155.102.89.0/24,no-resolve
-IP-CIDR,155.102.90.0/24,no-resolve
 IP-CIDR,155.102.99.0/24,no-resolve
 IP-CIDR,155.102.100.0/23,no-resolve
 IP-CIDR,155.102.111.0/24,no-resolve

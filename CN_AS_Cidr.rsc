@@ -2983,10 +2983,7 @@ add address=155.102.24.0/24 list=CN
 add address=155.102.26.0/23 list=CN
 add address=155.102.28.0/22 list=CN
 add address=155.102.32.0/19 list=CN
-add address=155.102.70.0/24 list=CN
 add address=155.102.72.0/24 list=CN
-add address=155.102.89.0/24 list=CN
-add address=155.102.90.0/24 list=CN
 add address=155.102.99.0/24 list=CN
 add address=155.102.100.0/23 list=CN
 add address=155.102.111.0/24 list=CN
