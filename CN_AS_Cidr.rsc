@@ -1656,6 +1656,7 @@ add address=110.77.0.0/17 list=CN
 add address=110.79.78.0/24 list=CN
 add address=110.80.0.0/13 list=CN
 add address=110.88.0.0/14 list=CN
+add address=110.94.0.0/17 list=CN
 add address=110.96.0.0/16 list=CN
 add address=110.100.2.0/23 list=CN
 add address=110.100.6.0/23 list=CN
