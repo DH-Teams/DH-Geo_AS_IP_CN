@@ -4295,7 +4295,6 @@ IP-CIDR6,2400:5280:f803::/48,no-resolve
 IP-CIDR6,2400:54a0:21c0::/48,no-resolve
 IP-CIDR6,2400:54a0:21c3::/48,no-resolve
 IP-CIDR6,2400:5a60:2::/48,no-resolve
-IP-CIDR6,2400:5a60:100::/48,no-resolve
 IP-CIDR6,2400:5f60::/32,no-resolve
 IP-CIDR6,2400:6000::/32,no-resolve
 IP-CIDR6,2400:6460::/39,no-resolve
@@ -5545,6 +5544,7 @@ IP-CIDR6,2a14:67c1:b130::/46,no-resolve
 IP-CIDR6,2a14:67c1:b134::/47,no-resolve
 IP-CIDR6,2a14:67c1:b136::/48,no-resolve
 IP-CIDR6,2a14:67c1:b140::/48,no-resolve
+IP-CIDR6,2a14:67c1:b142::/48,no-resolve
 IP-CIDR6,2a14:67c1:b4a1::/48,no-resolve
 IP-CIDR6,2a14:67c1:b4a8::/47,no-resolve
 IP-CIDR6,2a14:67c1:b4c0::/45,no-resolve
@@ -5571,6 +5571,7 @@ IP-CIDR6,2a14:7580:d000::/38,no-resolve
 IP-CIDR6,2a14:7580:df00::/40,no-resolve
 IP-CIDR6,2a14:7580:e200::/40,no-resolve
 IP-CIDR6,2a14:7580:fe00::/40,no-resolve
+IP-CIDR6,2a14:7580:ffe4::/48,no-resolve
 IP-CIDR6,2a14:7580:fff4::/48,no-resolve
 IP-CIDR6,2a14:7580:fff7::/48,no-resolve
 IP-CIDR6,2a14:7580:fffa::/48,no-resolve
