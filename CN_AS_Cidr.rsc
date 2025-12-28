@@ -853,7 +853,6 @@ add address=103.5.192.0/23 list=CN
 add address=103.5.194.0/24 list=CN
 add address=103.6.220.0/22 list=CN
 add address=103.7.140.0/23 list=CN
-add address=103.8.8.0/22 list=CN
 add address=103.8.32.0/22 list=CN
 add address=103.8.52.0/22 list=CN
 add address=103.8.68.0/22 list=CN
@@ -3104,6 +3103,7 @@ add address=193.119.22.0/24 list=CN
 add address=193.119.25.0/24 list=CN
 add address=193.119.28.0/24 list=CN
 add address=193.119.30.0/24 list=CN
+add address=193.233.49.0/24 list=CN
 add address=194.15.39.0/24 list=CN
 add address=194.127.229.0/24 list=CN
 add address=194.138.202.0/23 list=CN

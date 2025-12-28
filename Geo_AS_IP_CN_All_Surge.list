@@ -850,7 +850,6 @@ IP-CIDR,103.5.192.0/23,no-resolve
 IP-CIDR,103.5.194.0/24,no-resolve
 IP-CIDR,103.6.220.0/22,no-resolve
 IP-CIDR,103.7.140.0/23,no-resolve
-IP-CIDR,103.8.8.0/22,no-resolve
 IP-CIDR,103.8.32.0/22,no-resolve
 IP-CIDR,103.8.52.0/22,no-resolve
 IP-CIDR,103.8.68.0/22,no-resolve
@@ -3101,6 +3100,7 @@ IP-CIDR,193.119.22.0/24,no-resolve
 IP-CIDR,193.119.25.0/24,no-resolve
 IP-CIDR,193.119.28.0/24,no-resolve
 IP-CIDR,193.119.30.0/24,no-resolve
+IP-CIDR,193.233.49.0/24,no-resolve
 IP-CIDR,194.15.39.0/24,no-resolve
 IP-CIDR,194.127.229.0/24,no-resolve
 IP-CIDR,194.138.202.0/23,no-resolve
@@ -5358,7 +5358,7 @@ IP-CIDR6,2a0e:b107:178d::/48,no-resolve
 IP-CIDR6,2a0e:b107:178e::/48,no-resolve
 IP-CIDR6,2a0f:1cc4::/32,no-resolve
 IP-CIDR6,2a0f:1cc5:20::/44,no-resolve
-IP-CIDR6,2a0f:1cc5:100::/44,no-resolve
+IP-CIDR6,2a0f:1cc5:100::/43,no-resolve
 IP-CIDR6,2a0f:1cc5:130::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:600::/47,no-resolve
 IP-CIDR6,2a0f:1cc5:610::/48,no-resolve
@@ -5378,6 +5378,7 @@ IP-CIDR6,2a0f:1cc6:b102::/47,no-resolve
 IP-CIDR6,2a0f:1cc6:b110::/47,no-resolve
 IP-CIDR6,2a0f:1cc7::/32,no-resolve
 IP-CIDR6,2a0f:5707:ac01::/48,no-resolve
+IP-CIDR6,2a0f:6282::/32,no-resolve
 IP-CIDR6,2a0f:6284:300::/40,no-resolve
 IP-CIDR6,2a0f:6284:400::/42,no-resolve
 IP-CIDR6,2a0f:6284:440::/43,no-resolve
@@ -5388,6 +5389,9 @@ IP-CIDR6,2a0f:6284:4c30::/48,no-resolve
 IP-CIDR6,2a0f:6284:4c40::/43,no-resolve
 IP-CIDR6,2a0f:6284:4c60::/44,no-resolve
 IP-CIDR6,2a0f:6284:4c80::/43,no-resolve
+IP-CIDR6,2a0f:6284:7000::/36,no-resolve
+IP-CIDR6,2a0f:6284:a000::/36,no-resolve
+IP-CIDR6,2a0f:6287::/36,no-resolve
 IP-CIDR6,2a0f:7803:f680::/44,no-resolve
 IP-CIDR6,2a0f:7803:fa21::/48,no-resolve
 IP-CIDR6,2a0f:7803:fa22::/47,no-resolve
@@ -5496,7 +5500,6 @@ IP-CIDR6,2a14:7581:ffb::/48,no-resolve
 IP-CIDR6,2a14:7581:30b6::/48,no-resolve
 IP-CIDR6,2a14:7581:3100::/40,no-resolve
 IP-CIDR6,2a14:7581:3401::/48,no-resolve
-IP-CIDR6,2a14:7583:f203::/48,no-resolve
 IP-CIDR6,2a14:7583:f204::/48,no-resolve
 IP-CIDR6,2a14:7583:f224::/48,no-resolve
 IP-CIDR6,2a14:7583:f228::/48,no-resolve
