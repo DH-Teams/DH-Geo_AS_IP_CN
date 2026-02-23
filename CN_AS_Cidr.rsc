@@ -71,7 +71,6 @@ add address=14.208.0.0/12 list=CN
 add address=14.255.16.0/24 list=CN
 add address=14.255.254.0/24 list=CN
 add address=16.2.142.0/23 list=CN
-add address=23.133.188.0/24 list=CN
 add address=23.236.111.0/24 list=CN
 add address=23.247.128.0/24 list=CN
 add address=23.247.130.0/24 list=CN
@@ -1600,6 +1599,10 @@ add address=106.112.0.0/12 list=CN
 add address=106.224.0.0/14 list=CN
 add address=106.228.0.0/15 list=CN
 add address=106.230.0.0/16 list=CN
+add address=107.148.240.0/21 list=CN
+add address=107.148.248.0/24 list=CN
+add address=107.148.250.0/23 list=CN
+add address=107.148.252.0/23 list=CN
 add address=107.151.212.0/24 list=CN
 add address=107.190.229.0/24 list=CN
 add address=109.111.255.0/24 list=CN
@@ -1763,7 +1766,16 @@ add address=113.130.96.0/20 list=CN
 add address=113.130.112.0/21 list=CN
 add address=113.132.0.0/14 list=CN
 add address=113.136.0.0/13 list=CN
-add address=113.160.96.0/20 list=CN
+add address=113.185.80.0/20 list=CN
+add address=113.185.96.0/19 list=CN
+add address=113.185.128.0/20 list=CN
+add address=113.185.240.0/20 list=CN
+add address=113.186.144.0/20 list=CN
+add address=113.188.112.0/20 list=CN
+add address=113.190.16.0/20 list=CN
+add address=113.190.48.0/20 list=CN
+add address=113.190.64.0/20 list=CN
+add address=113.190.96.0/20 list=CN
 add address=113.194.0.0/15 list=CN
 add address=113.197.101.0/24 list=CN
 add address=113.197.103.0/24 list=CN
@@ -2871,6 +2883,7 @@ add address=154.72.44.0/24 list=CN
 add address=154.72.47.0/24 list=CN
 add address=154.89.32.0/20 list=CN
 add address=154.91.158.0/23 list=CN
+add address=154.197.128.0/17 list=CN
 add address=154.208.140.0/22 list=CN
 add address=154.208.144.0/20 list=CN
 add address=154.208.160.0/21 list=CN
@@ -2885,6 +2898,7 @@ add address=156.107.160.0/24 list=CN
 add address=156.107.170.0/24 list=CN
 add address=156.107.179.0/24 list=CN
 add address=156.107.181.0/24 list=CN
+add address=156.224.128.0/17 list=CN
 add address=156.227.239.0/24 list=CN
 add address=156.230.11.0/24 list=CN
 add address=156.231.163.0/24 list=CN
