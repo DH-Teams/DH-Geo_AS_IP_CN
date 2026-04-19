@@ -3679,7 +3679,7 @@ add address=210.77.128.0/19 list=CN
 add address=210.77.176.0/22 list=CN
 add address=210.77.180.0/23 list=CN
 add address=210.77.182.0/24 list=CN
-add address=210.77.184.0/23 list=CN
+add address=210.77.184.0/24 list=CN
 add address=210.77.189.0/24 list=CN
 add address=210.77.190.0/23 list=CN
 add address=210.77.192.0/18 list=CN
