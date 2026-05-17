@@ -1670,7 +1670,7 @@ add address=114.60.0.0/14 list=CN
 add address=114.64.0.0/16 list=CN
 add address=114.66.0.0/18 list=CN
 add address=114.66.72.0/21 list=CN
-add address=114.66.80.0/23 list=CN
+add address=114.66.81.0/24 list=CN
 add address=114.66.236.0/22 list=CN
 add address=114.66.240.0/20 list=CN
 add address=114.67.16.0/21 list=CN
