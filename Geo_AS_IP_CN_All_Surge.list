@@ -2978,7 +2978,7 @@ IP-CIDR,193.9.44.0/24,no-resolve
 IP-CIDR,193.9.46.0/24,no-resolve
 IP-CIDR,193.112.0.0/16,no-resolve
 IP-CIDR,194.127.229.0/24,no-resolve
-IP-CIDR,194.138.202.0/23,no-resolve
+IP-CIDR,194.138.202.0/24,no-resolve
 IP-CIDR,194.138.245.0/24,no-resolve
 IP-CIDR,198.208.17.0/24,no-resolve
 IP-CIDR,198.208.19.0/24,no-resolve
