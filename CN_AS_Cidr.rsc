@@ -2981,7 +2981,7 @@ add address=193.9.44.0/24 list=CN
 add address=193.9.46.0/24 list=CN
 add address=193.112.0.0/16 list=CN
 add address=194.127.229.0/24 list=CN
-add address=194.138.202.0/24 list=CN
+add address=194.138.202.0/23 list=CN
 add address=194.138.245.0/24 list=CN
 add address=198.208.17.0/24 list=CN
 add address=198.208.19.0/24 list=CN
