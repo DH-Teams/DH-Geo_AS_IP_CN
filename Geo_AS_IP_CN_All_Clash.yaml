@@ -2715,6 +2715,7 @@ payload:
   - IP-CIDR,150.242.244.0/22,no-resolve
   - IP-CIDR,150.242.248.0/22,no-resolve
   - IP-CIDR,150.255.0.0/16,no-resolve
+  - IP-CIDR,151.158.14.0/23,no-resolve
   - IP-CIDR,151.243.189.0/24,no-resolve
   - IP-CIDR,152.104.128.0/17,no-resolve
   - IP-CIDR,152.136.0.0/16,no-resolve
@@ -3896,7 +3897,6 @@ payload:
   - IP-CIDR,220.203.0.0/17,no-resolve
   - IP-CIDR,220.203.128.0/18,no-resolve
   - IP-CIDR,220.203.216.0/23,no-resolve
-  - IP-CIDR,220.203.220.0/22,no-resolve
   - IP-CIDR,220.203.224.0/19,no-resolve
   - IP-CIDR,220.205.0.0/16,no-resolve
   - IP-CIDR,220.206.192.0/22,no-resolve
@@ -4205,6 +4205,7 @@ payload:
   - IP-CIDR6,2402:1440::/32,no-resolve
   - IP-CIDR6,2402:2000::/32,no-resolve
   - IP-CIDR6,2402:36e0::/44,no-resolve
+  - IP-CIDR6,2402:4820::/32,no-resolve
   - IP-CIDR6,2402:4b80::/32,no-resolve
   - IP-CIDR6,2402:4e00::/32,no-resolve
   - IP-CIDR6,2402:5ec0::/32,no-resolve
@@ -5053,13 +5054,18 @@ payload:
   - IP-CIDR6,2a04:f580:9270::/48,no-resolve
   - IP-CIDR6,2a04:f580:9280::/48,no-resolve
   - IP-CIDR6,2a04:f580:9290::/48,no-resolve
+  - IP-CIDR6,2a0a:d685:1ff::/48,no-resolve
+  - IP-CIDR6,2a0a:d685:300::/48,no-resolve
   - IP-CIDR6,2a0b:4340:90::/48,no-resolve
   - IP-CIDR6,2a0b:4340:97::/48,no-resolve
   - IP-CIDR6,2a0d:c7c7:400::/38,no-resolve
+  - IP-CIDR6,2a0e:4005:ff12::/47,no-resolve
+  - IP-CIDR6,2a0e:4005:ff20::/48,no-resolve
   - IP-CIDR6,2a0e:aa06:49f::/48,no-resolve
   - IP-CIDR6,2a0e:b107:740::/44,no-resolve
   - IP-CIDR6,2a0e:b107:2440::/44,no-resolve
   - IP-CIDR6,2a0f:1cc5:1600::/44,no-resolve
+  - IP-CIDR6,2a0f:1cc5:4300::/40,no-resolve
   - IP-CIDR6,2a12:cb41:1200::/44,no-resolve
   - IP-CIDR6,2a12:cb41:1300::/43,no-resolve
   - IP-CIDR6,2a12:cb41:13f0::/44,no-resolve
@@ -5070,6 +5076,7 @@ payload:
   - IP-CIDR6,2a14:7580:d41::/48,no-resolve
   - IP-CIDR6,2a14:7580:d42::/47,no-resolve
   - IP-CIDR6,2a14:7580:dff::/48,no-resolve
+  - IP-CIDR6,2a14:7583:efff::/48,no-resolve
   - IP-CIDR6,2c0f:f7a8:8011::/48,no-resolve
   - IP-CIDR6,2c0f:f7a8:8050::/48,no-resolve
   - IP-CIDR6,2c0f:f7a8:805f::/48,no-resolve
