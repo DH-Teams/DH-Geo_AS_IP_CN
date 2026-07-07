@@ -5058,6 +5058,7 @@ IP-CIDR6,2a0e:b107:740::/44,no-resolve
 IP-CIDR6,2a0e:b107:2440::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:1600::/44,no-resolve
 IP-CIDR6,2a0f:1cc5:4700::/40,no-resolve
+IP-CIDR6,2a0f:9400:6110::/48,no-resolve
 IP-CIDR6,2a12:cb41:1200::/44,no-resolve
 IP-CIDR6,2a12:cb41:1300::/43,no-resolve
 IP-CIDR6,2a12:cb41:13f0::/44,no-resolve
