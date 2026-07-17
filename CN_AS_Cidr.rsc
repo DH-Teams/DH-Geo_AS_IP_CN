@@ -55,8 +55,7 @@ add address=8.150.16.0/21 list=CN
 add address=8.150.64.0/23 list=CN
 add address=8.152.0.0/13 list=CN
 add address=8.160.0.0/15 list=CN
-add address=8.162.0.0/18 list=CN
-add address=8.162.64.0/19 list=CN
+add address=8.162.0.0/17 list=CN
 add address=8.163.0.0/16 list=CN
 add address=8.164.0.0/14 list=CN
 add address=8.168.0.0/15 list=CN
@@ -2799,6 +2798,7 @@ add address=163.61.178.0/23 list=CN
 add address=163.61.202.0/23 list=CN
 add address=163.61.214.0/23 list=CN
 add address=163.125.0.0/16 list=CN
+add address=163.128.254.0/23 list=CN
 add address=163.142.0.0/16 list=CN
 add address=163.177.0.0/16 list=CN
 add address=163.179.0.0/16 list=CN
