@@ -670,6 +670,7 @@ add address=81.68.0.0/14 list=CN
 add address=81.173.18.0/23 list=CN
 add address=81.173.20.0/22 list=CN
 add address=81.173.28.0/24 list=CN
+add address=82.108.77.0/24 list=CN
 add address=82.156.0.0/15 list=CN
 add address=87.232.115.0/24 list=CN
 add address=87.254.207.0/24 list=CN
