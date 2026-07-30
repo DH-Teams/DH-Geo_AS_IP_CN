@@ -1421,7 +1421,6 @@ add address=103.251.207.0/24 list=CN
 add address=103.251.240.0/22 list=CN
 add address=103.252.36.0/24 list=CN
 add address=103.252.172.0/22 list=CN
-add address=103.252.248.0/22 list=CN
 add address=103.253.60.0/22 list=CN
 add address=103.253.204.0/22 list=CN
 add address=103.254.68.0/22 list=CN
@@ -2845,7 +2844,6 @@ add address=175.102.128.0/21 list=CN
 add address=175.102.178.0/23 list=CN
 add address=175.102.180.0/22 list=CN
 add address=175.102.184.0/24 list=CN
-add address=175.102.196.0/24 list=CN
 add address=175.146.0.0/15 list=CN
 add address=175.148.0.0/14 list=CN
 add address=175.152.0.0/14 list=CN
