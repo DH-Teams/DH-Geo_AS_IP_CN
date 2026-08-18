@@ -3409,7 +3409,7 @@ add address=203.195.128.0/17 list=CN
 add address=203.196.0.0/21 list=CN
 add address=203.202.236.0/23 list=CN
 add address=203.205.88.0/22 list=CN
-add address=203.205.92.0/24 list=CN
+add address=203.205.92.0/23 list=CN
 add address=203.205.95.0/24 list=CN
 add address=203.207.64.0/19 list=CN
 add address=203.207.96.0/21 list=CN
