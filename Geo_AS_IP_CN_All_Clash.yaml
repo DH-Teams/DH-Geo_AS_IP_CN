@@ -5010,7 +5010,7 @@ payload:
   - IP-CIDR6,240a:a008::/30,no-resolve
   - IP-CIDR6,240a:a00c::/31,no-resolve
   - IP-CIDR6,240a:a00e::/48,no-resolve
-  - IP-CIDR6,240a:a00e:100::/48,no-resolve
+  - IP-CIDR6,240a:a00e:100::/40,no-resolve
   - IP-CIDR6,240a:a00f::/32,no-resolve
   - IP-CIDR6,240a:a010::/28,no-resolve
   - IP-CIDR6,240a:a020::/27,no-resolve
