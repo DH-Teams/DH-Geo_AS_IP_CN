@@ -5073,7 +5073,6 @@ payload:
   - IP-CIDR6,2a0a:d685:1ff::/48,no-resolve
   - IP-CIDR6,2a0a:d685:300::/40,no-resolve
   - IP-CIDR6,2a0b:4340:97::/48,no-resolve
-  - IP-CIDR6,2a0b:a300::/29,no-resolve
   - IP-CIDR6,2a0d:2681:8000::/33,no-resolve
   - IP-CIDR6,2a0d:c7c7:400::/38,no-resolve
   - IP-CIDR6,2a0d:d941::/37,no-resolve
@@ -5082,7 +5081,6 @@ payload:
   - IP-CIDR6,2a0f:1cc5:1600::/44,no-resolve
   - IP-CIDR6,2a0f:1cc5:4700::/40,no-resolve
   - IP-CIDR6,2a0f:9400:6110::/48,no-resolve
-  - IP-CIDR6,2a0f:a700::/29,no-resolve
   - IP-CIDR6,2a10:fa86::/34,no-resolve
   - IP-CIDR6,2a12:cb41:600::/44,no-resolve
   - IP-CIDR6,2a12:cb41:1200::/44,no-resolve
