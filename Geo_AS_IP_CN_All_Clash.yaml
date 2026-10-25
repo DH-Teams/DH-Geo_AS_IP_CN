@@ -2787,7 +2787,6 @@ payload:
   - IP-CIDR,162.105.0.0/16,no-resolve
   - IP-CIDR,163.0.0.0/16,no-resolve
   - IP-CIDR,163.47.4.0/22,no-resolve
-  - IP-CIDR,163.52.28.0/23,no-resolve
   - IP-CIDR,163.53.44.0/23,no-resolve
   - IP-CIDR,163.53.60.0/22,no-resolve
   - IP-CIDR,163.53.88.0/21,no-resolve
