@@ -1367,7 +1367,8 @@ add address=103.238.188.0/22 list=CN
 add address=103.238.204.0/22 list=CN
 add address=103.239.68.0/22 list=CN
 add address=103.239.152.0/22 list=CN
-add address=103.239.184.0/22 list=CN
+add address=103.239.184.0/23 list=CN
+add address=103.239.186.0/24 list=CN
 add address=103.239.192.0/22 list=CN
 add address=103.239.224.0/22 list=CN
 add address=103.239.244.0/22 list=CN
