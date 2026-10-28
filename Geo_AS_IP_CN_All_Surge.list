@@ -1364,7 +1364,8 @@ IP-CIDR,103.238.188.0/22,no-resolve
 IP-CIDR,103.238.204.0/22,no-resolve
 IP-CIDR,103.239.68.0/22,no-resolve
 IP-CIDR,103.239.152.0/22,no-resolve
-IP-CIDR,103.239.184.0/22,no-resolve
+IP-CIDR,103.239.184.0/23,no-resolve
+IP-CIDR,103.239.186.0/24,no-resolve
 IP-CIDR,103.239.192.0/22,no-resolve
 IP-CIDR,103.239.224.0/22,no-resolve
 IP-CIDR,103.239.244.0/22,no-resolve
@@ -4128,7 +4129,7 @@ IP-CIDR6,2400:9620::/32,no-resolve
 IP-CIDR6,2400:a860:1::/48,no-resolve
 IP-CIDR6,2400:a860:2::/47,no-resolve
 IP-CIDR6,2400:a860:4::/46,no-resolve
-IP-CIDR6,2400:a860:8::/48,no-resolve
+IP-CIDR6,2400:a860:8::/47,no-resolve
 IP-CIDR6,2400:a980::/29,no-resolve
 IP-CIDR6,2400:ae00:1981::/48,no-resolve
 IP-CIDR6,2400:b200::/32,no-resolve
