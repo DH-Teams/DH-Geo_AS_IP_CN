@@ -3439,7 +3439,7 @@ IP-CIDR,203.223.20.0/23,no-resolve
 IP-CIDR,204.77.130.0/24,no-resolve
 IP-CIDR,204.235.241.0/24,no-resolve
 IP-CIDR,205.198.19.0/24,no-resolve
-IP-CIDR,206.109.70.0/23,no-resolve
+IP-CIDR,206.109.71.0/24,no-resolve
 IP-CIDR,206.109.75.0/24,no-resolve
 IP-CIDR,207.57.167.0/24,no-resolve
 IP-CIDR,207.57.168.0/24,no-resolve
