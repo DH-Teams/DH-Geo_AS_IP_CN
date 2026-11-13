@@ -2965,6 +2965,7 @@ add address=182.174.0.0/15 list=CN
 add address=182.200.0.0/13 list=CN
 add address=182.240.0.0/13 list=CN
 add address=182.254.0.0/16 list=CN
+add address=182.255.60.0/22 list=CN
 add address=183.0.0.0/10 list=CN
 add address=183.64.0.0/13 list=CN
 add address=183.78.180.0/22 list=CN
