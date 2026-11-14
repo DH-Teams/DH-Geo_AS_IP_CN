@@ -2963,6 +2963,7 @@ payload:
   - IP-CIDR,182.200.0.0/13,no-resolve
   - IP-CIDR,182.240.0.0/13,no-resolve
   - IP-CIDR,182.254.0.0/16,no-resolve
+  - IP-CIDR,182.255.60.0/22,no-resolve
   - IP-CIDR,183.0.0.0/10,no-resolve
   - IP-CIDR,183.64.0.0/13,no-resolve
   - IP-CIDR,183.78.180.0/22,no-resolve
