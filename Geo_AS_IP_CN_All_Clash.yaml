@@ -4165,7 +4165,6 @@ payload:
   - IP-CIDR6,2400:ee00:fff0::/44,no-resolve
   - IP-CIDR6,2400:f6e0::/32,no-resolve
   - IP-CIDR6,2400:f720::/32,no-resolve
-  - IP-CIDR6,2400:fe00::/32,no-resolve
   - IP-CIDR6,2401:800::/32,no-resolve
   - IP-CIDR6,2401:1160::/32,no-resolve
   - IP-CIDR6,2401:1320::/32,no-resolve
